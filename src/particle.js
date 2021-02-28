@@ -14,7 +14,8 @@ export class Particle {
         this.y = null;
         this.size = null;
         this.speedX = null;
-        this.speedY = null
+        this.speedY = null;
+        this.colour = null;
     }
 
     update() {
